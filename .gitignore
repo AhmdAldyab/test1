@@ -1,0 +1,4 @@
+*.log
+!vip.log
+folder/
+t1.txt
